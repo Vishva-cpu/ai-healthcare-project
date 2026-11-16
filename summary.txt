@@ -1,0 +1,30 @@
+=====================================================
+      HEALTH CENTRE DAILY TRIAGE SUMMARY REPORT      
+=====================================================
+
+Total Student Visits Processed: 30
+
+--- BREAKDOWN BY PRIORITY LEVEL ---
+  - see_now : 9 (Immediate attention required)
+  - today   : 12 (Same-day consultation)
+  - routine : 9 (Certificates / non-urgent)
+
+--- BREAKDOWN BY SYMPTOM CATEGORY ---
+  - allergy   : 4
+  - fever_cold: 4
+  - injury    : 5
+  - other     : 6
+  - pain      : 8
+  - stomach   : 3
+
+--- BREAKDOWN BY ARRIVAL HOUR ---
+  - 08:00 - 08:59: 3 visits
+  - 09:00 - 09:59: 9 visits
+  - 10:00 - 10:59: 8 visits
+  - 11:00 - 11:59: 7 visits
+  - 12:00 - 12:59: 3 visits
+
+=====================================================
+Note: This summary contains aggregate operational data only.
+Patient personal notes are restricted to nurse_queue.csv.
+=====================================================

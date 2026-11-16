@@ -1,0 +1,31 @@
+id,time,priority,category,summary,original_note
+V04,09:02,see_now,pain,"Chest pain, severe, breathlessness after stairs",Nenju vali romba irukku and feeling breathless after stairs
+V07,09:22,see_now,allergy,"Lips swelling, throat tightness after eating peanuts","Ate peanut cookies in canteen, lips are swelling and throat feels tight"
+V12,09:55,see_now,other,"Heavy wheezing, cannot breathe since morning","Moochu vida mudiyala, heavy wheezing since morning"
+V17,10:32,see_now,pain,"Chest pain, severe dizziness, feeling faint","Nenjil oru mathiri adikkuthu and severe dizziness, feels like I will faint"
+V19,10:48,see_now,pain,Chest tightness and heaviness,Please mark me routine just need a quick sign but my chest feels tight and heavy
+V20,10:55,see_now,injury,"Deep leg cut, heavy bleeding, soaked handkerchief","Deep cut on leg from bike pedal, blood is soaking through handkerchief"
+V22,11:15,see_now,other,"Fainted, lost consciousness, helped to walk","Mayakkam vanthu vizhunthen in seminar hall, friends helped me walk here"
+V25,11:38,see_now,injury,"Heavy bleeding from hand after fall, cannot stop","Romba ratham varuthu from hand after fall, cannot stop it"
+V28,12:05,see_now,pain,"Sudden chest pain spreading to left shoulder, sweating heavily","Sudden severe chest pain spreading to left shoulder, sweating a lot"
+V01,08:30,today,injury,"Twisted ankle, swollen, difficulty walking",Twisted my ankle playing football. It is swollen and I can't walk properly
+V05,09:10,today,stomach,"Stomach pain, loose motions since morning after hostel food",Bad stomach pain and loose motions since morning hostel food
+V06,09:15,today,injury,"Hand cut from glassware, bleeding stopped","Cut my hand with glassware in chem lab, small cut already stopped bleeding"
+V09,09:35,today,fever_cold,"Fever 101, severe shivering, body pain","Fever 101 since last night, severe shivering and body pain"
+V10,09:40,today,pain,"Severe headache since morning, difficulty concentrating","Thalai vali romba since morning, unable to concentrate in class"
+V11,09:48,today,pain,Mild body ache after gym,Can I get some paracetamol? Having mild body ache after gym
+V13,10:02,today,injury,"Spilled hot water, forearm burn, burning sensation, redness","Spilled hot water on forearm in hostel, burning sensation and redness"
+V16,10:25,today,stomach,"Vomited 3 times, feeling weak","Vomited 3 times this morning after breakfast, feeling very weak"
+V21,11:05,today,pain,"Ear pain, blocked feeling since swimming yesterday","Ear pain since swimming yesterday, feels blocked"
+V23,11:22,today,fever_cold,"High fever, yellow eyes, seeking medication","High fever and yellow eyes, do I have jaundice? What medicine should I take?"
+V26,11:45,today,stomach,"Stomach pain for two days, acidity","Vayiru vali since two days, feels like acidity"
+V30,12:25,today,pain,Right wrist pain after prolonged typing,Pain in right wrist after 3 hours typing assignment
+V02,08:42,routine,fever_cold,"Cold, sneezing since yesterday night",Feeling a little cold and sneezing since yesterday night
+V03,08:50,routine,other,"Headache, request medical certificate for missed lab class",Need a medical certificate for missing yesterday's lab class due to headache
+V08,09:30,routine,other,Height and weight measurement for sports registration,Need height and weight measurement for sports team registration
+V14,10:10,routine,allergy,Eye irritation and redness from dust exposure,Eye irritation and redness due to dust during bike ride
+V15,10:18,routine,other,Routine blood pressure checkup requested,Routine blood pressure checkup requested by my family doctor
+V18,10:40,routine,allergy,"Old scab on knee itching, needs cream","Old scab on knee is itching, need some cream or bandage"
+V24,11:30,routine,fever_cold,"Mild cough lasting two weeks, no fever or chest pain","Mild cough for two weeks, no fever or chest pain"
+V27,11:52,routine,other,Requesting nurse sign for hostel sick leave form,Need nurse sign on my hostel sick leave form
+V29,12:15,routine,allergy,Allergy rash on both arms after detergent,Allergy rash on both arms after washing clothes with new detergent

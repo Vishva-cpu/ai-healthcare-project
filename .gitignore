@@ -1,0 +1,17 @@
+# Secret environment variables (NEVER commit to GitHub)
+.env
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Output files generated during runs
+nurse_queue.csv
+summary.txt
+
